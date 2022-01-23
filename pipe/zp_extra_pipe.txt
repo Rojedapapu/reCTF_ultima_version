@@ -1,0 +1,7 @@
+[en]
+DISABLED = Pipe Bombs are disabled now.
+ALREADY = You already have one.
+DANGEROUS = Well, this looks dangerous.
+GO_EXPLOSIVE = Alright homemade explosives!
+MS_DISABLED = Mental Shield is disabled now.
+PROTECTED = Now you are protected from pipebombs.
