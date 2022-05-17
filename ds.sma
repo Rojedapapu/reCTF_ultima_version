@@ -6,9 +6,9 @@
 #define var new
 #define function public
 
-//https://discord.com/api/webhooks/844335552068321342/jBPY30p4Ia1v4ZOmd4z4QWYYHoYC_yBb1Dyfg-M-D_oVzfdDpakNHW695kV1e6qdRF_t
 
-new const server[] = "https://discord.com/api/webhooks/880590414686613644/eyf7z9Hau1B64fEVKDdvXiOS_4N8HtCT9ipT4LgteZ7svYLLKzWmdWBmfJpOMRiIAujt";
+
+new const server[] = "https://discord.com/api/webhooks/880590414686613644/";
 new const g_discord[] = "https://discord.gg/TafwJA8K37";
 
 function plugin_init() {
