@@ -8,8 +8,8 @@
 
 
 
-new const server[] = "https://discord.com/api/webhooks/880590414686613644/";
-new const g_discord[] = "https://discord.gg/TafwJA8K37";
+new const server[] = "https://discord.com/api/webhooks/SEXO/";
+new const g_discord[] = "https://discord.gg/SEXO";
 
 function plugin_init() {
 	register_plugin("Discord WebHook", "0.1b", "Hypnotize");
